@@ -19,6 +19,8 @@ Building on this foundation, my current focus is on enhancing my skills and appl
 
 **Intersection-Modelling-using-Petri-Nets** — A Java-based Petri Net model mapping two specific intersections in Cluj-Napoca to analyze routing and traffic flow pathways.
 
+**SEEQ-Smart Headwear** — An intelligent IoT wearable device designed to assist visually impaired individuals with spatial navigation in unfamiliar environments. The device is meant to increase the user's safety, mobility and independence.
+
 **Nonlinear-ARX-identification** — A MATLAB implementation for identifying and modeling nonlinear ARX (AutoRegressive with eXogenous input) systems.
 
 **Fitting-an-unknown-function** — A MATLAB project dedicated to curve fitting and approximating unknown mathematical functions from data.
